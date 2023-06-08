@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/roboapp/static/css/main.073c9b0a.css",
-    "main.js": "/roboapp/static/js/main.90820695.js",
+    "main.css": "/roboapp/static/css/main.b27ef85a.css",
+    "main.js": "/roboapp/static/js/main.e242eaae.js",
     "static/js/787.6cddae0b.chunk.js": "/roboapp/static/js/787.6cddae0b.chunk.js",
-    "static/media/logo.svg": "/roboapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/sega-webfont.woff": "/roboapp/static/media/sega-webfont.7292c0c45dca5a467933.woff",
+    "static/media/sega-webfont.woff2": "/roboapp/static/media/sega-webfont.3c86771430e607738bf4.woff2",
     "index.html": "/roboapp/index.html",
-    "main.073c9b0a.css.map": "/roboapp/static/css/main.073c9b0a.css.map",
-    "main.90820695.js.map": "/roboapp/static/js/main.90820695.js.map",
+    "main.b27ef85a.css.map": "/roboapp/static/css/main.b27ef85a.css.map",
+    "main.e242eaae.js.map": "/roboapp/static/js/main.e242eaae.js.map",
     "787.6cddae0b.chunk.js.map": "/roboapp/static/js/787.6cddae0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.90820695.js"
+    "static/css/main.b27ef85a.css",
+    "static/js/main.e242eaae.js"
   ]
 }
