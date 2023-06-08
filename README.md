@@ -1,17 +1,31 @@
-# Check out my first React App:
-[https://rosielee09.github.io/roboapp/]
+# Robo-Kitten-Freinds
+https://rosielee09.github.io/roboapp/
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The Simple Profile Application allows you to filter data based on user names or email 
+
+## Technologies
+- Javascript
+- React
+- [RoboHash API](https://robohash.org/)
+- [Tachyons npm for CSS](https://tachyons.io/#style)
+- [{JSON}Placeholder API for data](https://jsonplaceholder.typicode.com/)
+
+## Features
+
+- **User Search:** The application provides a search functionality where you can enter a user name and find the associated profile card.
+![main](https://github.com/rosielee09/roboapp/assets/123128268/49372d17-97a2-4244-96bc-9f056ea155a3)
+- **Cute Kitty Images:** To make the user experience more enjoyable, the application utilizes the Robohash API to generate random cute kitty images for the profile cards.
+- ![search](https://github.com/rosielee09/roboapp/assets/123128268/7b3b78b6-57cd-4e17-8402-3258d81b0c3d)
+
+
+## Installation
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
