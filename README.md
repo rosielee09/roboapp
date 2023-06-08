@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-https://rosielee09.github.io/roboapp/
+This project was bootstrapped with [Create React App]
+Check my 'Robo-Kitten-Friends' App
+[https://rosielee09.github.io/roboapp/]
 
 ## Available Scripts
 
