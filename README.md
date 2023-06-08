@@ -3,7 +3,7 @@ https://rosielee09.github.io/roboapp/
 
 ## Description
 
-The Simple Profile Application allows you to filter data based on user names or email 
+The Simple Profile Application allows you to filter data based on user names.
 
 ## Technologies
 - Javascript
